@@ -15,7 +15,7 @@ MACHINE - 2 - M1 Mac OSX
 - After installing the libraries, copy the framework files into /Library/Frameworks/ 
 
 
-
+# GAMEPLAY
 
 This consists of the main map of the IIT Delhi Campus with interconnecting roads. The game tries to mimic the objectives of
 a student till graduation from IIT
