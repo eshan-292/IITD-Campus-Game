@@ -74,7 +74,7 @@ change in attributes similar to other outdoor sports
 Inside OAT (Open Air Theatre) – we have a dance show going on
 - For every second spent inside the OAT happiness would be increased by 1
 
-Some General Comments:
+## Some General Comments:
 - The icons for health, energy and happiness are dynamic in nature
 - We have added quite a few interesting animations (look out for them while playing), for instance audio effects for dancing, peacocks etc and motion effects for rabbits, cats, sweepers, sleeping, playing different sports and many more.
 - Also we have setup the win loss parameters after exhaustive testing by playing with each other, so that the gameplay is neither too easy nor too hard. 
@@ -82,7 +82,7 @@ Some General Comments:
 
 
 
-Bonus Level Features:
+## Bonus Level Features:
 - If a person has money >=60 then the person can buy a jetpack from this money
 - The jetpack lasts for 15 seconds or the entering of the player to some location
 - If the player does not enter into any location then the jetpack would be removed and the person
